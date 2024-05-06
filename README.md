@@ -28,7 +28,7 @@ coordinate expenses with their travel companions.
 
 ### Communications
 
-#### Chats (WhatsApp API?)
+#### End-User Chat with Firebase Realtime Database
 
 ### Reservations
 
